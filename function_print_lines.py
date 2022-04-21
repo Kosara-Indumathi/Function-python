@@ -6,5 +6,3 @@ def function_print_lines():
     print("my name is rishabh")
     print("i am the co-founder of navgurukul")
 function_print_lines()
-
-

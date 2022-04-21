@@ -6,3 +6,4 @@ def function(list):
         i=i+1
     print(a)
 function([6,9])
+  

@@ -7,5 +7,3 @@ def function(list):
         i=i+1
 a=input("enter the character")
 function(["indu","indumathi","liki","likitha","sai","swathi"])
-
-    
